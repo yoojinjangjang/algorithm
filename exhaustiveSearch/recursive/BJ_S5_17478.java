@@ -1,9 +1,9 @@
 package exhaustiveSearch.recursive;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+        import java.io.BufferedReader;
+        import java.io.IOException;
+        import java.io.InputStreamReader;
+        import java.util.StringTokenizer;
 
 public class BJ_S5_17478 {
     static int cnt = 0;
